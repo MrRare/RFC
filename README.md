@@ -1,2 +1,2 @@
 # RFC
-its an desktop app to find duplicates
+its an desktop app to find duplicate files
